@@ -16,3 +16,6 @@ Accuracy of 60.61%.
 # code notebooks:
 Sdvgg16 for the training and testing the model.
 Sdapi for giving result on downloaded images.
+
+# for model generation please run sdvgg16 on your pc
+
